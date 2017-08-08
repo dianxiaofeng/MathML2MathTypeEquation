@@ -1,5 +1,5 @@
 ## MathML2MathTypeEquation ##
-
+1111111111111111
 这篇文章主要介绍怎么使用[MathType](https://www.dessci.com/en/reference/sdk/)把[MathML](https://zh.wikipedia.org/wiki/%E6%95%B0%E5%AD%A6%E7%BD%AE%E6%A0%87%E8%AF%AD%E8%A8%80)转换MathType类型的公式对象并嵌入到Word中。
 
 最近，这里有个需求是需要转换一大批的MathML文件到Word文档中，如果使用[Open-XML-SDK](https://github.com/OfficeDev/Open-XML-SDK)是非常容易实现的，你可以参考[https://github.com/scalad/MathML2Word](https://github.com/scalad/MathML2Word)，但是，最重要的是这不是想要的结果，因为经过Open-XML-SDK的转换，这个公式的类型变成了[OMML(Office Math Markup Language)](https://en.wikipedia.org/wiki/Mathematical_markup_language)格式的，什么是OMML呢？
